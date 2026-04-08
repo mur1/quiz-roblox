@@ -1,0 +1,336 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://www.eventos-recargajogo.site/
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\index.htm
+Content Type: text/html
+
+Uri: https://www.eventos-recargajogo.site/favicon.ico?favicon.5df4e208.ico
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fgarena-logo.png&w=256&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\garena-logo.png
+Content Type: image/png
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fgarena-logo.png&w=96&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\garena-logo-1.png
+Content Type: image/png
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=1080&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=1200&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=1920&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=2048&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=3840&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=640&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=750&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/image?url=%2Fhero-banner-new.jpg&w=828&q=75
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\hero-banner-new-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/025c66901e0473e5.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\025c66901e0473e5.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/0cbd64a76cd968d1.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\0cbd64a76cd968d1.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/240461da8f3815e6.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\240461da8f3815e6.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/249261e921aeebba.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\249261e921aeebba.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/535ea56dba6947da.css
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\535ea56dba6947da.css
+Content Type: text/css
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/7340adf74ff47ec0.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\7340adf74ff47ec0.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/a6dad97d9634a72d.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\a6dad97d9634a72d.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/aa0c7c8fb89a4472.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\aa0c7c8fb89a4472.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/ff1a16fafef87110.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\ff1a16fafef87110.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/chunks/turbopack-339770849351ceff.js
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\chunks\turbopack-339770849351ceff.js
+Content Type: application/javascript
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/073882072f72ca37-s.54d7950a.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\073882072f72ca37-s.54d7950a.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/07bc3d3e69c8b6e8-s.a98998d3.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\07bc3d3e69c8b6e8-s.a98998d3.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/087f4c42b279024d-s.697f4173.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\087f4c42b279024d-s.697f4173.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/10bd139a632d728f-s.3ed74b99.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\10bd139a632d728f-s.3ed74b99.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/118b6ed7ac256a99-s.p.772b3575.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\118b6ed7ac256a99-s.p.772b3575.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/124b7a75a76bd55c-s.c3ae84a8.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\124b7a75a76bd55c-s.c3ae84a8.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/1bffadaabf893a1e-s.7cd81963.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\1bffadaabf893a1e-s.7cd81963.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/1ccf8ef962b3f693-s.p.1edb596a.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\1ccf8ef962b3f693-s.p.1edb596a.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/1e23e5114abf0db3-s.p.b3163490.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\1e23e5114abf0db3-s.p.b3163490.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/278cbb97e75e04e2-s.p.2ce9a157.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\278cbb97e75e04e2-s.p.2ce9a157.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/2bbe8d2671613f1f-s.76dcb0b2.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\2bbe8d2671613f1f-s.76dcb0b2.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/2c55a0e60120577a-s.2a48534a.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\2c55a0e60120577a-s.2a48534a.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/316b6682b406c2db-s.26901079.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\316b6682b406c2db-s.26901079.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/3206eb66b875a5b3-s.p.e2b99870.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\3206eb66b875a5b3-s.p.e2b99870.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/34da6f6f5d0d57a5-s.96754dc3.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\34da6f6f5d0d57a5-s.96754dc3.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/35f9213b86bccda4-s.1ea730ea.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\35f9213b86bccda4-s.1ea730ea.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/374a88ea0960b3d4-s.p.eb0a589c.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\374a88ea0960b3d4-s.p.eb0a589c.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5128e7653d6f3744-s.71b7b808.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5128e7653d6f3744-s.71b7b808.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5476f68d60460930-s.c995e352.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5476f68d60460930-s.c995e352.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/577b8067601e9847-s.e644b68f.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\577b8067601e9847-s.e644b68f.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5ad4ff46ac72da73-s.p.d1ceb8d7.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5ad4ff46ac72da73-s.p.d1ceb8d7.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5cd84bccd140a27e-s.a0602b11.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5cd84bccd140a27e-s.a0602b11.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5d1ea58cfb9c551d-s.7dda2f4b.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5d1ea58cfb9c551d-s.7dda2f4b.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5db3af44c16866f3-s.p.72e262d7.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5db3af44c16866f3-s.p.72e262d7.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5e4d537aaa9e154b-s.p.01f07175.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5e4d537aaa9e154b-s.p.01f07175.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/5e9c5fb40545fcd2-s.a32f81c5.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\5e9c5fb40545fcd2-s.a32f81c5.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/638f182e7ded7477-s.p.5461cf5a.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\638f182e7ded7477-s.p.5461cf5a.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/63e49db46351d020-s.9f91ba4a.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\63e49db46351d020-s.9f91ba4a.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/65c1f6eb17b9caea-s.ee7a3fed.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\65c1f6eb17b9caea-s.ee7a3fed.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/664b8486c44baa2d-s.eeb2a9d6.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\664b8486c44baa2d-s.eeb2a9d6.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/76724868bba90169-s.50e05bf8.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\76724868bba90169-s.50e05bf8.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/785695c5b05eabf2-s.4b9e5f71.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\785695c5b05eabf2-s.4b9e5f71.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/7f33a509678d7a30-s.95fef08a.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\7f33a509678d7a30-s.95fef08a.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/7ff43f20b4a94066-s.56af7f28.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\7ff43f20b4a94066-s.56af7f28.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\83afe278b6a6bb3c-s.p.3a6ba036.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/8457265da2739722-s.9e63b5e1.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\8457265da2739722-s.9e63b5e1.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/876b05e81fb36bf6-s.5eeb9c45.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\876b05e81fb36bf6-s.5eeb9c45.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/891a32df73aa4402-s.3041cf1f.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\891a32df73aa4402-s.3041cf1f.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/89d4f80f11029d6d-s.p.eabc3dff.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\89d4f80f11029d6d-s.p.eabc3dff.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/906d1c14d86e79d2-s.bb16e423.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\906d1c14d86e79d2-s.bb16e423.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/9186901afaa5c996-s.06d28661.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\9186901afaa5c996-s.06d28661.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/9728433aadc137d6-s.1cbb8ad9.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\9728433aadc137d6-s.1cbb8ad9.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/9c72aa0f40e4eef8-s.18a48cbc.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\9c72aa0f40e4eef8-s.18a48cbc.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/a079e02bba5bf7ab-s.p.7367eab7.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\a079e02bba5bf7ab-s.p.7367eab7.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/a244653d74e7372f-s.686004b0.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\a244653d74e7372f-s.686004b0.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/ac548f9ce6284f94-s.20a1a55f.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\ac548f9ce6284f94-s.20a1a55f.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/ad66f9afd8947f86-s.7a40eb73.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\ad66f9afd8947f86-s.7a40eb73.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/affb3a7a977decf3-s.3a9d0fd2.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\affb3a7a977decf3-s.3a9d0fd2.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/c26308a965d8ee8a-s.d8af20d6.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\c26308a965d8ee8a-s.d8af20d6.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/c5ac7bd8b2d9fce6-s.076cbb0d.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\c5ac7bd8b2d9fce6-s.076cbb0d.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/c5ef4f45c466146b-s.cfb14465.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\c5ef4f45c466146b-s.cfb14465.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/c750adf2ddf22b70-s.p.fc7dc774.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\c750adf2ddf22b70-s.p.fc7dc774.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/cf9d54c4342bfde9-s.61bf9d6d.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\cf9d54c4342bfde9-s.61bf9d6d.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/d03928121523449c-s.0ac69077.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\d03928121523449c-s.0ac69077.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/d0ed2b25cc87a567-s.aaec0f21.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\d0ed2b25cc87a567-s.aaec0f21.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/d1bdedfd2fe13894-s.b093ab45.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\d1bdedfd2fe13894-s.b093ab45.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/d23f31b94ad01e54-s.p.4b0b0c7e.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\d23f31b94ad01e54-s.p.4b0b0c7e.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/d5ac005905e340fc-s.823aae1d.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\d5ac005905e340fc-s.823aae1d.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/dc0c65e819e3bb6c-s.p.c8bc5246.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\dc0c65e819e3bb6c-s.p.c8bc5246.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/dc822924a6b60314-s.7fcd3289.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\dc822924a6b60314-s.7fcd3289.woff2
+Content Type: font/woff2
+
+Uri: https://www.eventos-recargajogo.site/_next/static/media/e9924293c1dc5ea7-s.510eee18.woff2
+File Name: C:\Users\muri\Desktop\development\www.eventos-recargajogo.site\_next\static\media\e9924293c1dc5ea7-s.510eee18.woff2
+Content Type: font/woff2
+
